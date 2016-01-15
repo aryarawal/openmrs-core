@@ -16,7 +16,7 @@ The project tree is set up as follows:
  </tr>
  <tr>
   <td>api/</td>
-  <td>java and resource files for building the java api jar file.</td>
+  <td>java and resource files for building the java api jar file..</td>
  </tr>
  <tr>
   <td>release-test</td>
